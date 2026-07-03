@@ -44,15 +44,10 @@ git config --global --unset user.email
 
 **Step 2 — Add your details:**
 ```bash
-git config --global user.name "your-username"
-git config --global user.email "your-email@example.com"
+git config --global user.name "dharmikpipaliya07"
+git config --global user.email "dharmikpipaliya07@gmail.com"
 ```
 
-> ✏️ **Example:**
-> ```bash
-> git config --global user.name "satyam-navdiya-spec"
-> git config --global user.email "satyamashokbhainavdiya@gmail.com"
-> ```
 
 ---
 
